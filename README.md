@@ -34,8 +34,6 @@ A simple and interactive To-Do List application built using **HTML, CSS, and Jav
 3. Click on a task to mark it as completed.
 4. Click the **Delete** button to remove a task.
 
-## Screenshots
-![To-Do List Screenshot](screenshot.png)
 
 ## Future Enhancements
 - Add a filter option (Completed/Pending tasks)
@@ -45,8 +43,6 @@ A simple and interactive To-Do List application built using **HTML, CSS, and Jav
 ## Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
 
-## License
-This project is open-source and available under the **MIT License**.
 
 ---
 **Made with by [Hazbeena ]**
